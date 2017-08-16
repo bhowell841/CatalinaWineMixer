@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CatalinaApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Catalina Boat Express</string>
+    <string name="txtNumOfTickets">Number of Tickets</string>
+    <string name="prompt">Select Time</string>
+    <string name="btnCost">FIND THE COST</string>
+    <string-array name="txtTime">
+        <item>To Catalina Island</item>
+        <item>To Long Beach</item>
+        <item>To The Catalina Wine Mixer</item>
+    </string-array>
+</resources>
